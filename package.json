@@ -1,0 +1,26 @@
+{
+  "name": "BBB-TCS34725",
+  "version": "0.0.0",
+  "description": "Nodejs driver for Adafruit I2C RGB sensor TCS34725",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sorokine/BBB-TCS34725.git"
+  },
+  "keywords": [
+    "rgb",
+    "color",
+    "sensor",
+    "beaglebone",
+    "i2c",
+    "tcs34725"
+  ],
+  "author": "Alex Sorokine <sorokine@gmail.com> (http://sorokine.info/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sorokine/BBB-TCS34725/issues"
+  }
+}
